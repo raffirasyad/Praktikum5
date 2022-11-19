@@ -112,6 +112,7 @@ print(tabulate(dataMahasiswa, headers=[
 
 
 Terima Kasih
+
 NAMA : Muhammad Raffi Rasyad
 
 
